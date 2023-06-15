@@ -1,6 +1,6 @@
 ## OLá Seja Bem Vindo ao Meu Perfil , Meu Nome é Gabriel Severo e Sou um Dev !
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSeveroDaSilva&show_icons=true&theme=transparent)
 
 
 
