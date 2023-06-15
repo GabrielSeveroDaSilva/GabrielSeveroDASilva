@@ -1,7 +1,6 @@
 ## OLá Seja Bem Vindo ao Meu Perfil , Meu Nome é Gabriel Severo e Sou um Dev !
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
-mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
